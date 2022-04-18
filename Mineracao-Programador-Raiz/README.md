@@ -1,4 +1,4 @@
-## Projetos de mineração de dados
+## Projeto de mineração de dados usando máquinas de estados
 
 Neste repositório podemos encontrar técnicas sobre Mineração de Dados em fontes de dados textuais.
 
